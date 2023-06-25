@@ -1,0 +1,24 @@
+https://scoop.sh/
+
+Logiciel pour installer/désinstaller des applications
+
+Et mettre à jour
+
+Pas besoin d'être admin
+
+
+Install Syfony CLI : scoop install main/symfony-cli
+
+
+Php n'a pas d'extensions !
+https://github.com/ScoopInstaller/Scoop/wiki/Custom-PHP-configuration
+
+MDR on modifie le php.ini C:\Users\axdu0\scoop\apps\php\current\cli
+
+On ajoute la configuration d'appache (le fichier .htaccess) : composer require symfony/apache-pack
+
+
+
+
+
+PS : C'est de la merde
